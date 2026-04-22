@@ -6,7 +6,7 @@ This project shows how to generate images from text descriptions using the Stabl
 
                                     Optimized for GOOGLE COLAB 
 
-                         ### IF TRIED TO RUN LOCALLY IT'LL TAKE TOO LONG ###
+                           IF TRIED TO RUN LOCALLY IT'LL TAKE TOO LONG
 
 
                             
